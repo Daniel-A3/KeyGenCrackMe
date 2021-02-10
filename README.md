@@ -8,6 +8,6 @@ to the correct keys' sum of ascii values, if its the same, access is granted, ot
 
 **Examples:**
 
-![alt text](https://github.com/
+![alt text](https://github.com/Daniel-A3/KeyGenCrackMe/blob/main/Pictures/keygen.PNG)
 
-![alt text](https://github.com/
+![alt text](https://github.com/Daniel-A3/KeyGenCrackMe/blob/main/Pictures/keygenProof.PNG)
