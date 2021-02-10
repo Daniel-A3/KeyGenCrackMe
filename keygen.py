@@ -1,5 +1,5 @@
 # This program generates keys for a crackme I recently solved.
-# How does it work? The algorithm it used added all of the ASCII values of letters
+# How does it work? The algorithm it used added all of the ASCII values of letters 
 # in a key, and if the sum was correct then the key was verified, giving the user access.
 import random
 
